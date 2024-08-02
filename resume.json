@@ -1,0 +1,72 @@
+{
+  "Name": "Prasad Jagadale",
+  "Contact Information": {
+    "Phone": "+91-8806777633",
+    "Email": "prasadjagadale2357@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/prasad-jagadale-701b7822a/",
+    "Github": "https://github.com/Prasad2357",
+    "Leetcode": "https://leetcode.com/Prasad_Jagadale33/"
+  },
+  "Education": [
+    {
+      "Institution": "VIIT PUNE",
+      "Degree": "B.Tech Computer Engineering",
+      "CGPA/Percentage": "9.12",
+      "Year": "2021 – 2025",
+      "Location": "Pune, Maharashtra"
+    },
+    {
+      "Institution": "Yashwantrao Chavan Institute Of Science",
+      "Degree": "HSC",
+      "CGPA/Percentage": "94.17%",
+      "Year": "2021",
+      "Location": "Satara, Maharashtra"
+    },
+    {
+      "Institution": "Dnyandeep English Medium School",
+      "Degree": "SSC",
+      "CGPA/Percentage": "90.80%",
+      "Year": "2019",
+      "Location": "Wai, Maharashtra"
+    }
+  ],
+  "Projects": [
+    {
+      "Project Name": "Lung Cancer Prediction",
+      "Technologies": "Python, Machine Learning, Data Science",
+      "Description": "An analysis of the performance of Machine Learning algorithms for prediction of lung cancer. Conducted comprehensive analysis of nine machine learning algorithms for lung cancer prediction, highlighting the significance of early detection using Kaggle datasets."
+    },
+    {
+      "Project Name": "Accounts and Password Management System",
+      "Technologies": "Python, File Handling, OS, Encryption and Decryption",
+      "Description": "This project enables users to securely store, organize, and manage their passwords and account credentials, ensuring a hassle-free and protected digital identity management experience."
+    },
+    {
+      "Project Name": "FIFA Dashboard",
+      "Technologies": "Tableau, FIFA Dataset, Data Visualization",
+      "Description": "Analysed player statistics, team performance, insights to create meaningful visualizations. Provided interactive features for exploring and understanding the data."
+    },
+    {
+      "Project Name": "Traffic Bot",
+      "Technologies": "Python, LangChain, FAISS, Chainlit",
+      "Description": "Traffic-bot is an AI system designed to handle traffic-related queries using Retrieval Augmented Generation (RAG) techniques. It processes traffic regulation documents, creates vector embeddings, and utilizes a language model to provide accurate and timely responses. The system features automated data updates and optimized architecture for scalability. It integrates with Chainlit for a conversational interface, making it user-friendly and efficient."
+    }
+  ],
+  "Technical Skills": {
+    "Languages": ["Python", "C", "C++", "MySQL"],
+    "Developer Tools": ["VS Code", "Git", "Github", "Jupyter", "PowerBI", "Tableau"],
+    "Course Work": ["DSA", "OS", "CN", "DBMS", "OOPS", "ML", "CAO"]
+  },
+  "Achievements": [
+    "Qualified GATE 2024",
+    "Published Research Paper at IEEE Xplore through ICIMIA 2023 Conference",
+    "Leet code:(50+ Problems)",
+    "Google Data Analytics Certification",
+    "Won Gold Medal at Annual Sports 2022"
+  ],
+  "Responsibilities": [
+    "Handball CS Department Head at Annual Sports 2023",
+    "Active Team Member of the Sports Department",
+    "Member of Gandharva (College Fest) Photography Team"
+  ]
+}
